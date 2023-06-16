@@ -1,0 +1,68 @@
+body{
+          
+    background: url(image/back_new.jpg)no-repeat center center fixed;
+    background: cover;
+        }
+   
+      
+      
+      h1{
+          color:yellow;
+          padding:35px;
+          font-family: 'Ranchers', cursive;
+          font-size:60px;
+          letter-spacing: 0.2em; 
+
+      }
+      .para{
+          font-family: 'Anton', sans-serif;
+         font-size: 40px;
+      }
+      #param{
+        /*font-family: 'El Messiri', sans-serif*/
+        font-family: 'Anton', sans-serif;
+        font-size:25px;
+      }
+      
+      .back{
+        background-color: lightcyan;
+      }
+      
+      .ctm{
+        padding-left: 10px;
+      }
+      .con{
+        margin-top: 10px;
+      }
+      a{
+        color:cyan;
+      }
+      #line{
+        border-top:1px dashed red;
+      }
+      .k{
+        margin-bottom: 5px;
+      }
+      .list{
+        color: white;
+      }
+      footer p{
+    margin-bottom: 0;
+   }
+   footer{
+    padding-top:30px;
+    padding:50px 0 0;
+    background: #1f1f1f;
+    color:#939393;
+    display: block;
+
+  }
+  .mar{
+    margin-bottom: 0;
+
+  }
+  #foot{
+    text-align: center;
+  }
+  
+  

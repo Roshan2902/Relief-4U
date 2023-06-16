@@ -1,0 +1,159 @@
+
+</nav>
+
+<div class="jumbo">
+ <div class="container-fluid con">
+  <div class="row">
+    <div class="col-sm-2">
+      <img src="logo4.png" alt="logo">
+    </div>
+    <div class="col-sm-10">
+      <h1 class="display-2">RELIEF 4 U</h1>
+      <p>HOME DEMAND SERVICES AT YOUR DOOR STEP</p>
+       <p id="para">Experienced, Assured Gurranted!</p>
+  <div class="container">
+  <div class="dropdown">
+
+  <a class="btn btn-warning dropdown-toggle btn-lg" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" 
+   <h1>Where do you need a Service?</h1>
+    <div class="dropdown-divider"></div>
+    Select Your City
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="#">Bihar</a>
+    <a class="dropdown-item" href="#">Jharkhand</a>
+    <a class="dropdown-item" href="#">Uttarpradesh</a>
+  </div>
+ </div>
+ </div>
+      
+    </div>
+    </div>
+  </div> 
+  </div>
+
+ <div class="container con">
+  <div class="row">
+    <div class="col-sm-5">
+    <ul class="list-inline">
+        <li class="list-inline-item"><img src="icon_3.png" alt="best_price"></li>
+        <li class="list-inline-item"><strong>Transparent Pricing</strong><br>See fixed prices before you book. No hidden charges.</li><br>
+
+        <li class="list-inline-item"><img src="icon_2.png" alt="E&R"></li>
+        <li class="list-inline-item"><strong>Experts & Regular</strong><br>Our professionals are well trained and Expertise.</li><br>
+    
+     
+        <li class="list-inline-item"><img src="icon_1.png" alt="Fully equipped"></li>
+        <li class="list-inline-item"><strong>Fully equipped</strong><br>We bring everything needed to get the job done well.</li>
+      </div>
+
+       <div class="col-sm-3">
+         
+
+
+       </div>
+   
+        <div class="col-sm-4">
+           <li class="list-inline-item">
+             <div class="card back">
+              <div class="card-block">
+               <img id="imagine"src="quality_assure.png" alt="quality">
+                 <p class="card-text ct">100% Quality Assured
+                 <h5 class="card-text ctm"><small class="text-muted">If you don't love our services, we will make it right.</small></h5>
+                </p>
+               </div>
+             </div>
+            </li>
+          </div>
+    </ul>
+  </div>
+</div>
+
+<div class="container-fluid ">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-sm-4">
+        <h1>COMING SOON</h1>
+        <p>Also book professionals from your phone</p>
+       </div>
+ 
+      <div class="col-sm-4">
+        <img src="mobile_4.png" alt="sample_2">
+      </div>
+  
+     <div class="col-sm-4">
+       <img src="mobile_5.png" alt="sample_1">
+     </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+<div class="jumbotron">
+  <hr id="line">
+<footer class="page-footer" id="foot">
+
+  <!-- Footer Links -->
+  <div class="container">
+
+    <!-- Grid row-->
+    <div class="row text-center d-flex justify-content-center pt-5">
+
+      <!-- Grid column -->
+      <div class="col-md-2">
+        <h6 class="text-uppercase font-weight-bold">
+          <a href="#!">Terms & Conditions</a>
+        </h6>
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-md-2">
+        <h6 class="text-uppercase font-weight-bold ">
+          <a href="#!">Privacy Policy</a>
+        </h6>
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-md-2">
+        <h6 class="text-uppercase font-weight-bold">
+          <a href="#!">Reviews</a>
+        </h6>
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-md-2">
+        <h6 class="text-uppercase font-weight-bold">
+          <a href="#!">Contact us</a>
+        </h6>
+      </div>
+ 
+
+
+    </div>
+    <hr style="margin: 0 15%;">
+      <div class="col-md-8 col-12 mt-5">
+        <h2>Serving in</h2>
+        <h3>India</h3>
+        <h4 class="lead">Bihar</h4>
+      </div>
+   </div>
+  <div class="row">
+    <a href="https://www.facebook.com/">
+<button type="button" class="btn btn-fb btn-primary"><i class="fab fa-facebook-f pr-1"></i> Facebook</button>
+<button type="button" class="btn btn-tw btn-primary"><i class="fab fa-twitter pr-1"></i> Twitter</button>
+<button type="button" class="btn btn-tw btn-primary"><i class="fab fa-twitter pr-1"></i> Google+</button>
+      
+    </a>
+  </div>
+  </div>
+</footer>
+</div>
+<div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <a href="https://mdbootstrap.com/"> Relief4U.com</a>
+</div>
+  </div>
+</div>
